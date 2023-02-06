@@ -1,0 +1,72 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: monospace;
+}
+
+.content {
+    width: 50%;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+.title {
+    padding: 0.5rem;
+    font-size: 2.2rem;
+}
+
+.bar {
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.terminal {
+    width: 50%;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #222;
+    border-radius: 0.5rem;
+    
+}
+
+.prompt {
+    padding: 0.5rem;
+    font-size: 1.2rem;
+}
+
+#input {
+    width: 50%;
+    border: none;
+    background-color: transparent;
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+    font-size: 1.2rem;
+}
+
+
+.latest {
+    width: 75%;
+    margin: 0 auto;
+    padding: 1rem;
+    text-align: center;
+}
+
+iframe {
+    border: none;
+    width: 850px;
+    height: 1100px;
+    margin: 0 auto;
+    padding: 1rem;
+}
