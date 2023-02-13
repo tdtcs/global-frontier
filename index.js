@@ -23,7 +23,7 @@ input.addEventListener("keydown", function(event) {
             pre = document.createElement("pre");
             pre.appendChild(document.createTextNode(" Redirecting you..."))
             output.appendChild(pre);
-            window.location.href = "https://google.com/about"; // TODO
+            window.location.href = "./about";
         } 
 
         else {
