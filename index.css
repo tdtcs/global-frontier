@@ -67,7 +67,6 @@ a:hover {
 
 iframe {
     border: none;
-    width: 80%;
-    height: 2200px;
-    padding: 1rem;
+    width: 800px;
+    height: 100vh;
 }
