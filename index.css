@@ -57,7 +57,7 @@ a:hover {
 
 
 .latest {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
     display: flex;
     align-content: center;
@@ -68,5 +68,5 @@ a:hover {
 iframe {
     border: none;
     width: 800px;
-    height: 250vh;
+    height: 500vh;
 }
